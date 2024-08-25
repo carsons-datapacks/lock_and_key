@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:trial_key"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "minecraft:trial_key",
+    "count": 2
+  }
+}
