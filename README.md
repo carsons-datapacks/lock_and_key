@@ -5,7 +5,7 @@ Allows you to lock your doors, trapdoors, chests, barrels, and pots with a *Tria
 
 Watch the video to see it in action:
 
-[![]()]()
+[![](https://github.com/user-attachments/assets/0f174d7d-beb4-4df1-bece-d3c644cf8fc4)](https://youtu.be/hEafS3z2o4k)
 
 ### Locking
 Shift right-click on a block with a trial key to lock it.
